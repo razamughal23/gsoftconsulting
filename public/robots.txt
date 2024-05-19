@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://gsoft-landing-v2-gsoft.vercel.app/
+
+# Sitemaps
+Sitemap: https://gsoft-landing-v2-gsoft.vercel.app/sitemap.xml
+Sitemap: https://gsoft-landing-v2-gsoft.vercel.app/server-sitemap.xml
